@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Rahul Vigneswaran / About Me"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Rahul Vigneswaran K"
+description              : &description "Intern at CEN - India"
+url                      : https://rahulvigneswaran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "rahulvigneswaran/rahulvigneswaran.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Rahul Vigneswaran k"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a research intern at CEN - India mentored by Dr Soman KP. My interests are in the aspects of Convex Optimization, Control Theory and shape optimization using Dynamic Mode Decomposition (DMD)"
+  location         : "Coimbatore, India"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.co.in/citations?user=s7P6kbsAAAAJ&hl=en"
+  email            : "mailto:rahulvigneswaran@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Rahul_Vigneswaran_Krishnamohan"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "rahulvigneswaran"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/rahulvigneswaran"
+  orcid            : "https://orcid.org/0000-0002-4605-1327"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
