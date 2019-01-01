@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* B.Tech. in Mechanical Engineering, Amrita Vishwa Vidyapeetham, 2019 (expected)
+<!--* M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+-->
+<!--
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -57,3 +58,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
