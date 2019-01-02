@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rahul Vigneswaran K"
   avatar           : "profile.jpg"
-  bio              : "Research intern at CEN - India"
+  bio              : "Research Intern at CEN - India"
   location         : "Coimbatore, India"
   employer         :
   googlescholar    : "https://scholar.google.co.in/citations?user=s7P6kbsAAAAJ&hl=en"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
