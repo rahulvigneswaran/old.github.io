@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raghav Somani"
+title                    : "Rahul-Vigneswaran K"
 title_separator          : "-"
-name                     : &name "Raghav Somani"
-description              : &description "Research Fellow @ Microsoft Research Lab - India"
-url                      : https://raghavsomani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Rahul-Vigneswaran K"
+description              : &description "Intern at CEN - India"
+url                      : https://rahulvigneswaran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RaghavSomani/raghavsomani.github.io"
+repository               : "rahulvigneswaran/rahulvigneswaran.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Raghav Somani"
+  name             : "Rahul-Vigneswaran K"
   avatar           : "profile.jpg"
-  bio              : "2nd year Research Fellow @ Microsoft Research Lab - India | Mathematics and Computing graduate from IIT Guwahati"
-  location         : "Bengaluru, India"
+  bio              : "Research Intern at CEN - India"
+  location         : "Coimbatore, India"
   employer         : "Microsoft Research Lab – India"
-  googlescholar    : "https://scholar.google.co.in/citations?user=0M99MEYAAAAJ&hl=en"
-  email            : "raghavsomani1995@gmail.com"
+  googlescholar    : "https://scholar.google.co.in/citations?user=s7P6kbsAAAAJ&hl=en"
+  email            : "mailto:rahulvigneswaran@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +97,20 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "raghavsomani"
-  orcid            :
+  linkedin         : "rahulvigneswaran"
+  orcid            : "https://orcid.org/0000-0002-4605-1327"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "somethingmyname"
   vine             :
   weibo            :
   xing             :
-  youtube          : "raghavsomani1995"
+  youtube          : #"raghavsomani1995"
   wikipedia        :
-  dblp             : "https://dblp.org/pers/hd/s/Somani:Raghav"
+  dblp             : "https://dblp.uni-trier.de/pers/hd/k/K:Rahul=Vigneswaran"
 
 
 # Reading Files
