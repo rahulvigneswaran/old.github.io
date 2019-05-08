@@ -14,4 +14,5 @@ The techniques of deep learning have become the state of the art methodology for
 
 Please find the below resources
 * [arXiv](https://arxiv.org/abs/1904.03491){:target="_blank"}
+* [Slides](https://docs.google.com/presentation/d/1qHQS-9f5JKXEyOAEoD3hp1EZiMN6yOcZ-_2t3HtFq1E/edit?usp=sharing){:target="_blank"}
 * <strong>Recommended citation: </strong>Rahul-Vigneswaran, K., Poornachandran, P., & Soman, K.P. (2019). A Compendium on Network and Host based Intrusion Detection Systems. CoRR, abs/1904.03491.
