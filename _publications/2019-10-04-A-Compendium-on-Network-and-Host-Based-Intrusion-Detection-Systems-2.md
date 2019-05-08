@@ -16,5 +16,5 @@ Please find the below resources
 * [arXiv](https://arxiv.org/abs/1904.03491){:target="_blank"}
 <br>
 <br>
-Recommended citation: 
+<strong>Recommended citation: </strong>
 Rahul-Vigneswaran, K., Poornachandran, P., & Soman, K.P. (2019). A Compendium on Network and Host based Intrusion Detection Systems. CoRR, abs/1904.03491.

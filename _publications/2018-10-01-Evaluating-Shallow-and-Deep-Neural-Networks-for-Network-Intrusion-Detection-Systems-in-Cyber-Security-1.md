@@ -17,5 +17,5 @@ Please find the below resources
 * [Proceedings and Paper](https://ieeexplore.ieee.org/abstract/document/8494096){:target="_blank"}
 <br>
 <br>
-Recommended citation: 
+<strong>Recommended citation: </strong>
 K. Rahul Vigneswaran, R. Vinayakumar, K. Soman and P. Poornachandran, "Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security," 2018 9th International Conference on Computing, Communication and Networking Technologies (ICCCNT), Bangalore, 2018, pp. 1-6.
