@@ -8,12 +8,12 @@ venue: 'International Conference on Data Science, Machine learning & Application
 authors: 'Rahul-Vigneswaran K, Prabaharan Poornachandran, Soman KP'
 arxiv: 'https://arxiv.org/abs/1811.00159'
 #paperurl: 'https://ieeexplore.ieee.org/abstract/document/8494096'
-#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+#code: ''
 ---
 The techniques of deep learning have become the state of the art methodology for executing complicated tasks from various domains of computer vision, natural language processing, and several other areas. Due to its rapid development and promising benchmarks in those fields, researchers started experimenting with this technique to perform in the area of, especially in intrusion detection related tasks. Deep learning is a subset and a natural extension of classical Machine learning and an evolved model of neural networks. This paper contemplates and discusses all the methodologies related to the leading edge Deep learning and Neural network models purposing to the arena of Intrusion Detection Systems. 
 
 Please find the below resources
-* [arXiv Pre-print](https://arxiv.org/abs/1904.03491){:target="_blank"}
+* [arXiv](https://arxiv.org/abs/1904.03491){:target="_blank"}
 <br>
 <br>
 Recommended citation: 
