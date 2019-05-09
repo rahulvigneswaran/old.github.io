@@ -13,4 +13,8 @@ Every drone that we see today, however small it may be, is processing some kind 
 
 The complete PDF post can be viewed [here](https://arxiv.org/abs/1901.01051v1){:target="_blank"}.
 
-Readers, please note that this post is one among a three parted article, and is not meant for publication at any case. I will upload the rest as soon as I complete them.
+
+If you have used any of the materials from this article, kindly cite the following paper :
+
+1. RahulVigneswaran, K., & SomanK., P.K. (2019). An Insight into the Dynamics and State Space Modelling of a 3-D Quadrotor. CoRR, abs/1901.01051.
+

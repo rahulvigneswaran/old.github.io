@@ -113,3 +113,8 @@ An approach where Radial basis functions neural networks as containers are being
 
 19. Vinayakumar, R., Soman, K.P. and Poornachandran, P., 2017. Evaluation of Recurrent Neural Network and its Variants for Intrusion Detection System (IDS). International Journal of Information System Modeling and Design (IJISMD), 8(3), pp.43-63.
 
+If you have used any of the materials from this article, kindly cite the following papers :
+
+1. K. Rahul Vigneswaran, R. Vinayakumar, K. Soman and P. Poornachandran, "Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security," 2018 9th International Conference on Computing, Communication and Networking Technologies (ICCCNT), Bangalore, 2018, pp. 1-6.
+2. Rahul-Vigneswaran, K., Poornachandran, P., & Soman, K.P. (2019). A Compendium on Network and Host based Intrusion Detection Systems. CoRR, abs/1904.03491.
+

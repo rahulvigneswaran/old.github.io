@@ -2,7 +2,7 @@
 title: 'Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security'
 date: 2018-04-20
 permalink: /posts/2019/01/2018-04-20-Intrusion Detection Systems-1/
-excerpt: 'Intrusion detection system (IDS) has become an essential layer in all the latest ICT system due to an urge towards cyber safety in the day-to-day world. Reasons including uncertainty in finding the types of attacks and increased the complexity of advanced cyber attacks, IDS calls for the need of integration of Deep Neural Networks (DNNs). In this paper, DNNs have been utilized to predict the attacks on Network Intrusion Detection System (N-IDS). A DNN with 0.1 rate of learning is applied and is run for 1000 number of epochs and KDDCup-99 dataset has been used for training and bench-marking the network. For comparison purposes, the training is done on the same dataset with several other classical machine learning algorithms and DNN of layers ranging from 1 to 5. The results were compared and concluded that a DNN of 3 layers has superior performance over all the other classical machine learning algorithms.'
+excerpt: 'In this post, DNNs have been utilized to predict the attacks on Network Intrusion Detection System (N-IDS). A DNN with 0.1 rate of learning is applied and is run for 1000 number of epochs and KDDCup-99 dataset has been used for training and bench-marking the network. For comparison purposes, the training is done on the same dataset with several other classical machine learning algorithms and DNN of layers ranging from 1 to 5. The results were compared and concluded that a DNN of 3 layers has superior performance over all the other classical machine learning algorithms.'
 tags:
   - Intrusion detection
   - deep neural networks
@@ -255,6 +255,11 @@ Secure shell (ssh) traffic analysis with flow based features using shallow and d
 55. Vysakh S Mohan, Vinayakumar R, Soman Kp and Prabaharan Poornachandran. S.P.O.O.F Net: Syntactic Patterns for identification of Ominous Online Factors In Security and Privacy Workshops (SPW), 2018 IEEE [InPress].
 
 56. LeCun, Y., Bengio, Y. and Hinton, G., 2015. Deep learning. nature, 521(7553), p.436.
+
+If you have used any of the materials from this article, kindly cite the following papers :
+
+1. K. Rahul Vigneswaran, R. Vinayakumar, K. Soman and P. Poornachandran, "Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security," 2018 9th International Conference on Computing, Communication and Networking Technologies (ICCCNT), Bangalore, 2018, pp. 1-6.
+2. Rahul-Vigneswaran, K., Poornachandran, P., & Soman, K.P. (2019). A Compendium on Network and Host based Intrusion Detection Systems. CoRR, abs/1904.03491.
 
 
 
