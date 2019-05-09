@@ -12,7 +12,7 @@ I am a research intern at [CEN - India](https://www.amrita.edu/center/computatio
 <strong>Major Interests :</strong>   Machine Learning, Generative Adversarial Networks (GANs), Computer Vision, Learning with Limited data, Algorithms that adapt to different distributions.  \\
 \\
 <strong>Others          :</strong>   Data-driven approaches (DMD), Computational Design. \\
-\\
+
 
 
 # News
