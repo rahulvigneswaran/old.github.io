@@ -1,7 +1,7 @@
 ---
 title: 'Insight into the Dynamics and State Space Modelling of a 3-D Quadrotor'
 date: 2019-01-02
-permalink: /posts/2019/01/Insight into the Dynamics and State Space Modelling of a 3-D Quadrotor-1/
+permalink: /posts/2019/01/Insight into the Dynamics and State Space Modelling of a 3-D Quadrotor-3/
 excerpt: 'This post contains a detailed summary and study on the dynamics of a quadcopter/quadrotor along with the derivation of Space-state model for it from scratch.'
 tags:
   - Control Systems
