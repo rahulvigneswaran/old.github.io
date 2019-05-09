@@ -82,7 +82,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Research Intern at CEN - India"
   location         : "Coimbatore, India"
-  employer         : "Microsoft Research Lab – India"
+  employer         : #"CEN - India"
   googlescholar    : "https://scholar.google.co.in/citations?user=s7P6kbsAAAAJ&hl=en"
   email            : "mailto:rahulvigneswaran@gmail.com"
   uri              :
