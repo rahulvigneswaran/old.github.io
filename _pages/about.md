@@ -16,9 +16,9 @@ I am a research intern at [CEN - India](https://www.amrita.edu/center/computatio
 
 
 # News
-* Code for the paper "[Data-driven Computing in Elasticity via Chebyshev Approximation](https://rahulvigneswaran.github.io/publication/2019-15-05-Data-driven%20Computing%20for%20Elasticity%20via%20Chebyshev%20Approximation-4)" has been released.
-* Attending [TENCON'19](http://www.tencon2019.org/).
-* My latest paper on "[Data-driven Computing in Elasticity via Chebyshev Approximation](https://rahulvigneswaran.github.io/publication/2019-15-05-Data-driven%20Computing%20for%20Elasticity%20via%20Chebyshev%20Approximation-4)" is up on the arXiv.
+* <sub>Code for the paper "[Data-driven Computing in Elasticity via Chebyshev Approximation](https://rahulvigneswaran.github.io/publication/2019-15-05-Data-driven%20Computing%20for%20Elasticity%20via%20Chebyshev%20Approximation-4)" has been released.</sub>
+* <sub>Attending [TENCON'19](http://www.tencon2019.org/).</sub>
+* <sub>My latest paper on "[Data-driven Computing in Elasticity via Chebyshev Approximation](https://rahulvigneswaran.github.io/publication/2019-15-05-Data-driven%20Computing%20for%20Elasticity%20via%20Chebyshev%20Approximation-4)" is up on the arXiv.</sub>
 
 
 
