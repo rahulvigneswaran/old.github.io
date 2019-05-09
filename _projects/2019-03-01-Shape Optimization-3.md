@@ -9,8 +9,8 @@ date: 2019-03-01
 location: "India"
 ---
 ## Tasks
--[x]  Explore the idea of Data-driven shape optimization, especially in ship hulls.
--[x]  Use Proper Orthogonal Decomposition based model order reduction approach and Dynamic Mode Decomposition to reduce the simulation time of turbulent ﬂow.
+  [x]  Explore the idea of Data-driven shape optimization, especially in ship hulls.
+  [x]  Use Proper Orthogonal Decomposition based model order reduction approach and Dynamic Mode Decomposition to reduce the simulation time of turbulent ﬂow.
 <br/>
 
 A detailed study of the dynamics of a quadcoptor has been conducted and has been documented in the post "[Insight into the Dynamics and State Space Modelling of a 3-D Quadrotor](https://rahulvigneswaran.github.io/posts/2019/01/Insight%20into%20the%20Dynamics%20and%20State%20Space%20Modelling%20of%20a%203-D%20Quadrotor-3/)".
