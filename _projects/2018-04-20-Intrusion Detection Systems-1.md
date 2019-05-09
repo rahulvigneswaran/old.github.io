@@ -12,6 +12,7 @@ location: "India"
 - [x] Implement and analyze Deep and Shallow Neural Nets in the Cybersecurity use case of Intrusion Detection Systems (IDS). 
 - [x] Analyze and study various state-of-art implementations of Host and Network-based Intrusion Detection Systems (IDS).
 <br/>
+
 This project consists of two phases - an Evaluation of Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security and a survey on on Network and Host based Intrusion Detection Systems.
 1. Link to phase-1 : [Evaluation of Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security](https://rahulvigneswaran.github.io/posts/2019/01/2018-04-20-Intrusion%20Detection%20Systems-1/)
 2. Link to phase-2 : [Survey on on Network and Host based Intrusion Detection Systems](https://rahulvigneswaran.github.io/posts/2019/01/2018-07-20-Intrusion%20Detection%20Systems-2/)
