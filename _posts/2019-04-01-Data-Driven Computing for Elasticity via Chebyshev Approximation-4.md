@@ -15,7 +15,7 @@ tags:
 
 This article experiments with a data-driven approach for computing elasticity by means of a non-parametric regression approach rather than an optimization approach. The Chebyshev approximation is utilized for tackling the material data-sets non-linearity of the elasticity. Also, additional efforts have been taken to compare the results with several other state-of-the-art methodologies.
 
-The complete PDF post can be viewed [here](https://arxiv.org/abs/1904.10434){:target="_blank"}.
+The complete PDF post can be viewed [here](https://arxiv.org/abs/1904.10434){:target="_blank"} and the code used for this article can be found [here](https://github.com/rahulvigneswaran/Data-Driven-Computing-in-Elasticity-via-Chebyshev-Approximation).
 
 
 If you have used any of the materials from this article, kindly cite the following paper :

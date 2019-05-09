@@ -14,7 +14,7 @@ location: "India"
 <br/>
 
 This project consists of two phases - an Evaluation of Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security and a survey on on Network and Host based Intrusion Detection Systems.
-1. Link to phase-1 : [Evaluation of Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security](https://rahulvigneswaran.github.io/posts/2019/01/2018-04-20-Intrusion%20Detection%20Systems-1/)
+1. Link to phase-1 : [Evaluation of Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security](https://rahulvigneswaran.github.io/posts/2019/01/2018-04-20-Intrusion%20Detection%20Systems-1/) and the code used for this phase can be found [here](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems).
 2. Link to phase-2 : [Survey on on Network and Host based Intrusion Detection Systems](https://rahulvigneswaran.github.io/posts/2019/01/2018-07-20-Intrusion%20Detection%20Systems-2/)
 <br/>
 
