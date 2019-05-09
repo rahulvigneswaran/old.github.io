@@ -11,10 +11,10 @@ I am a research intern at [CEN - India](https://www.amrita.edu/center/computatio
 \\
 <strong>Major Interests :</strong>   Machine Learning, Generative Adversarial Networks (GANs), Computer Vision, Learning with Limited data, Algorithms that adapt to different distributions.  \\
 \\
-<strong>Others          :</strong>   Data-driven approaches (DMD), Computational Design.\\
+<strong>Others          :</strong>   Data-driven approaches (DMD), Computational Design. \\
 \\
 
-\\
+
 # News
 * Code for the paper "[Data-driven Computing in Elasticity via Chebyshev Approximation](https://rahulvigneswaran.github.io/publication/2019-15-05-Data-driven%20Computing%20for%20Elasticity%20via%20Chebyshev%20Approximation-4)" has been released.
 * Attending [TENCON'19](http://www.tencon2019.org/).
