@@ -52,22 +52,12 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-     {% if post.paperurl and post.arxiv and post.code %}
-      <p>Links [<a href= {{ post.paperurl }}  target=_blank<u>Paper</u></a>], [<a> href= {{ post.arxiv }}  target=_blank<u>arXiv</u></a>], [<a href= {{ post.code }}  target=_blank<u>Code</u></a>]</p>
-    {% endif %}
-    {% if post.paperurl and post.arxiv %}
-      <p>Links [<a href= {{ post.paperurl }}  target=_blank<u>Paper</u></a>], [<a> href= {{ post.arxiv }}  target=_blank<u>arXiv</u></a>]</p>
-    {% elsif post.paperurl and post.code %}
-      <p>Links [<a href= {{ post.paperurl }}  target=_blank<u>Paper</u></a>], [<a> href= {{ post.code }}  target=_blank<u>Code</u></a>]</p>
-    {% elsif post.arxiv and post.code %}
-      <p>Links [<a href= {{ post.arxiv }}  target=_blank<u>arXiv</u></a>], [<a> href= {{ post.code }}  target=_blank<u>Code</u></a>]</p>
-    {% endif %}
-    {% elsif post.code %}
-      <p>Link [<a href= {{ post.code }}  target=_blank<u>Code</u></a>]</p>
-    {% elsif post.arxiv %}
-      <p>Link [<a href= {{ post.arxiv }}  target=_blank<u>arXiv</u></a>]</p>
+    {% if post.citation and post.paperurl %}
+      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+    {% elsif post.citation %}
+      <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p>Link [<a href= {{ post.paperurl }}  target=_blank<u>Paper</u></a>]</p>
+      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
   </article>
