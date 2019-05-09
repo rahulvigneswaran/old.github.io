@@ -1,7 +1,7 @@
 ---
-title: "Data-driven Computing for Elasticity via Chebyshev function"
+title: "Data-driven Computing in Elasticity via Chebyshev Approximation"
 collection: publications
-permalink: /publication/2019-15-05-Data-driven Computing for Elasticity via Chebyshev function-4
+permalink: /publication/2019-15-05-Data-driven Computing for Elasticity via Chebyshev Approximation-4
 excerpt: 'This paper proposes a data-driven approach for computing elasticity by means of a non-parametric regression approach rather than an optimization approach. The Chebyshev approximation is utilized for tackling the material data-sets non-linearity of the elasticity. Also, additional efforts have been taken to compare the results with several other state-of-the-art methodologies. '
 date: 2019-10-10
 venue: 'International Conference on Intelligent Computing and Control Systems (ICCS)'
