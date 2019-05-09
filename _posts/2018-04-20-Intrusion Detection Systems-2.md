@@ -2,7 +2,7 @@
 title: 'Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security'
 date: 2018-04-20
 permalink: /posts/2019/01/2018-04-20-Intrusion Detection Systems-2/
-excerpt: 'This post contains a detailed summary and study on the dynamics of a quadcopter/quadrotor along with the derivation of Space-state model for it from scratch.'
+excerpt: 'Intrusion detection system (IDS) has become an essential layer in all the latest ICT system due to an urge towards cyber safety in the day-to-day world. Reasons including uncertainty in finding the types of attacks and increased the complexity of advanced cyber attacks, IDS calls for the need of integration of Deep Neural Networks (DNNs). In this paper, DNNs have been utilized to predict the attacks on Network Intrusion Detection System (N-IDS). A DNN with 0.1 rate of learning is applied and is run for 1000 number of epochs and KDDCup-'99' dataset has been used for training and bench-marking the network. For comparison purposes, the training is done on the same dataset with several other classical machine learning algorithms and DNN of layers ranging from 1 to 5. The results were compared and concluded that a DNN of 3 layers has superior performance over all the other classical machine learning algorithms.'
 tags:
   - Intrusion detection
   - deep neural networks
