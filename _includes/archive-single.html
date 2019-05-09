@@ -53,11 +53,16 @@
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}" target="_blank"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
+    {% endif %}
+    {% if post.paperurl and post.arxiv %}
+      <p>Links: [<a href=" {{ post.paperurl }} " target="_blank"><u>paper</u></a>], [<a href=" {{ post.arxiv }} " target="_blank"><u>arXiv</u></a>]</p>
+    {% elsif post.arxiv %}
+      <p>Link: [<a href=" {{ post.arxiv }} " target="_blank"><u>arXiv</u></a>]</p>
     {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      <p>Link: [<a href=" {{ post.paperurl }} " target="_blank"><u>paper</u></a>]</p>
     {% endif %}
 
   </article>
