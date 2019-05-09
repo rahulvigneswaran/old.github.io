@@ -15,8 +15,15 @@
   }
 
   a {
-    color: inherit;
-    text-decoration: none;
+    text-decoration: underline;
+
+    &:hover {
+      text-decoration: underline;
+
+      img {
+        box-shadow: 0 0 10px rgba(#000, 0.25);
+      }
+    }
   }
 }
 
@@ -38,7 +45,6 @@
 
   a + a {
     opacity: 0.5;
-    color: #52adc8;
   }
 }
 
@@ -74,7 +80,7 @@
   }
 
   .archive__item-title {
-  //  text-decoration: underline;
+    text-decoration: underline;
   }
 }
 

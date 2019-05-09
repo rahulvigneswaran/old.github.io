@@ -7,21 +7,23 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rahul-Vigneswaran K"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Rahul-Vigneswaran K"
-description              : &description "Intern at CEN - India"
-url                      : https://rahulvigneswaran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rahulvigneswaran/rahulvigneswaran.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
+future                   : true
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "raghavsomani"
+    shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -71,46 +73,48 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-111023802-1"
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Rahul-Vigneswaran K"
-  avatar           : "profile.jpg"
-  bio              : "Research Intern at CEN - India"
-  location         : "Coimbatore, India"
-  employer         : #"CEN - India"
-  googlescholar    : "https://scholar.google.co.in/citations?user=s7P6kbsAAAAJ&hl=en"
-  email            : "mailto:rahulvigneswaran@gmail.com"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : # "raghavsomani95"
+  facebook         :
   foursquare       :
-  github           : # "RaghavSomani"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rahulvigneswaran"
-  orcid            : "https://orcid.org/0000-0002-4605-1327"
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "somethingmyname"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          : #"raghavsomani1995"
+  youtube          :
   wikipedia        :
-  dblp             : "https://dblp.uni-trier.de/pers/hd/k/K:Rahul=Vigneswaran"
 
 
 # Reading Files
@@ -125,22 +129,23 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -166,28 +171,21 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-  math_engine: mathjax
 
 
 # Collections
 collections:
   teaching:
-    output: false
-    permalink: /:collection/:path/
-  posts:
-    output: true
-    permalink: /:collection/:path/
-  projects:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
@@ -200,7 +198,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
+      read_time: true
       comments: true
       share: true
       related: true
@@ -217,15 +215,6 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: projects
       author_profile: true
       share: true
       comments: true
@@ -270,7 +259,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
