@@ -9,7 +9,7 @@ location: "Center for Computational Engineering and Networking (CEN) - India"
 ---
 
 This project consists of two phases - an Evaluation of Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security and a survey on on Network and Host based Intrusion Detection Systems.
-1. Link to phase-1 : [Evaluation of Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security]()
+1. Link to phase-1 : [Evaluation of Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security](https://rahulvigneswaran.github.io/posts/2019/01/2018-04-20-Intrusion%20Detection%20Systems-2/)
 2. Link to phase-2 : [Survey on on Network and Host based Intrusion Detection Systems]()
 <br/>
 
