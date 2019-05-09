@@ -98,23 +98,10 @@ Conventionally, increasing the count of the layers results in better results com
 
 
 For all the above network topologies, 100 epochs were run and the results were observed. Finally, the best performance was showed by DNN 3 layer compared to all the others. To broaden the search for better results, all the common classical machine learning algorithms were used and the results were compared to the DNN 3 layer, which still outperformed every single classical algorithm. The detailed statistical results for different network structures are reported in the table I.
-___
+
 *Table I: Network Structure Information*
-|Layer (type)              |Output Shape |Param |
-|:------------------------:|:-----------:|:----:|                          
-|Dense-1 (Dense)           |(NIL, 1024)  |43008 |
-|Dropout-1 (Dropout)       |(NIL, 1024)  |0     |
-|Dense-2 (Dense)           |(NIL, 768)   |787200|
-|Dropout-2 (Dropout)       |(NIL, 768)   |0     | 
-|Dense-3 (Dense)           |(NIL, 512)   |393728|
-|Dropout-3 (Dropout)       |(NIL, 512)   |0     |
-|Dense-4 (Dense)           |(NIL, 256)   |131328|
-|Dropout-4 (Dropout)       |(NIL, 256)   |0     |
-|Dense-5 (Dense)           |(NIL, 128)   |32896 |
-|Dropout-5 (Dropout)       |(NIL, 128)   |0     |
-|Dense-6 (Dense)           |(NIL, 1)     |129   |
-|Activation-1 (Activation) |(NIL, 1)     |0     |
-___
+![Network Structure Information](files/tab1.png)  
+
 
 ### Proposed Architecture ###
 
@@ -127,35 +114,21 @@ An overview of proposed DNN’s architecture for all use cases is shown in Fig. 
 
 <strong>Output layer and classification:</strong> The out layer consists only of two neurons – Attack and Benign. Since the 1024 neurons from the previous layer must be converted into just 2 neurons, a sigmoid activation function is used. Due to the nature of the sigmoid function, it returns only two outputs, hence favouring the binary classification that was intended in this paper.
 
-___
+
 *Figure I: Proposed architecture*
 ![Proposed architecture](file/fig1.png)
-___
+
 
 ### Results ###
 
 For the scope of this paper, the  KDDCup-'99' dataset was fed into classical ML algorithms as well as DNNs of varying hidden layers. After the training is completed, all models were compared for f1-score, accuracy, recall and precision with the test dataset. The scores for the same has been compared in detail in Table II. 
 
 
-___
+
 *Table II: Results*
-|Algorithm          | Accuracy | Precision | Recall | f1-score |  
-|:------------------|:--------:|:---------:|:------:|:--------:|
-|DNN-1              | 0.929    | 0.998     | 0.915  | 0.954    | 
-|DNN-2              | 0.929    | 0.998     | 0.914  | 0.954    | 
-|DNN-3              | 0.930    | 0.997     | 0.915  | 0.955    | 
-|DNN-4              | 0.929    | 0.999     | 0.913  | 0.954    | 
-|DNN-5              | 0.927    | 0.998     | 0.911  | 0.953    | 
-|Ada Boost          | 0.925    | 0.995     | 0.911  | 0.951    | 
-|Decision Tree      | 0.928    | 0.999     | 0.912  | 0.953    | 
-|K-Nearest Neighbour| 0.929    | 0.998     | 0.913  | 0.954    | 
-|Linear Regression  | 0.848    | 0.989     | 0.821  | 0.897    | 
-|Navie Bayes        | 0.929    | 0.988     | 0.923  | 0.955    | 
-|Random Forest      | 0.927    | 0.999     | 0.910  | 0.953    | 
-|SVM*-Linear        | 0.811    | 0.994     | 0.770  | 0.868    | 
-|SVM*-rbf           | 0.811    | 0.992     | 0.772  | 0.868    |  
+![Results](files/tab2.png)  
 **Support Vector Machine*
-___
+
 DNN 3 layer network has outperformed all the other classical machine learning algorithms. It is so because of the ability of DNNs to extract data and features with higher abstraction and the non-linearity of the networks adds up to the advantage when compared with the other algorithms.
 
 ### Conclusion ###
@@ -283,6 +256,5 @@ Secure shell (ssh) traffic analysis with flow based features using shallow and d
 
 56. LeCun, Y., Bengio, Y. and Hinton, G., 2015. Deep learning. nature, 521(7553), p.436.
 
-_________
-_________
+
 
