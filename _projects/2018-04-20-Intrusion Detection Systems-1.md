@@ -3,9 +3,9 @@ title: "Intrusion Detection Systems"
 collection: projects
 type: "Research Project"
 permalink: /projects/2018-04-20-Intrusion Detection Systems-1
-venue: "Department of Mathematics"
+venue: "Center for Computational Engineering and Networking (CEN)"
 date: 2018-04-20
-location: "Center for Computational Engineering and Networking (CEN) - India"
+location: "India"
 ---
 
 This project consists of two phases - an Evaluation of Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security and a survey on on Network and Host based Intrusion Detection Systems.
