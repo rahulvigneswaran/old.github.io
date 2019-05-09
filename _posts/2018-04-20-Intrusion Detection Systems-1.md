@@ -100,7 +100,7 @@ Conventionally, increasing the count of the layers results in better results com
 For all the above network topologies, 100 epochs were run and the results were observed. Finally, the best performance was showed by DNN 3 layer compared to all the others. To broaden the search for better results, all the common classical machine learning algorithms were used and the results were compared to the DNN 3 layer, which still outperformed every single classical algorithm. The detailed statistical results for different network structures are reported in the table I.
 
 *Table I: Network Structure Information*
-![Network Structure Information](files/tab1.png)  
+![Network Structure Information](/files/tab1.png)  
 
 
 ### Proposed Architecture ###
@@ -116,7 +116,7 @@ An overview of proposed DNN’s architecture for all use cases is shown in Fig. 
 
 
 *Figure I: Proposed architecture*
-![Proposed architecture](file/fig1.png)
+![Proposed architecture](/file/fig1.png)
 
 
 ### Results ###
@@ -126,7 +126,7 @@ For the scope of this paper, the  KDDCup-'99' dataset was fed into classical ML 
 
 
 *Table II: Results*
-![Results](files/tab2.png)  
+![Results](/files/tab2.png)  
 **Support Vector Machine*
 
 DNN 3 layer network has outperformed all the other classical machine learning algorithms. It is so because of the ability of DNNs to extract data and features with higher abstraction and the non-linearity of the networks adds up to the advantage when compared with the other algorithms.
