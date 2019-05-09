@@ -5,7 +5,7 @@ type: "Research Project"
 permalink: /projects/2018-04-20-Intrusion Detection Systems-1
 venue: "Department of Mathematics"
 date: 2018-04-20
-location: "Center for Computational Engineering and Networking (CEN) - India"
+location: "Indian Institute of Technology Guwahati"
 ---
 
 We used data structures like Hash Tables, Balanced Trees in order to design a text search engine that gives the frequency of the searched word in a given folder of files.
