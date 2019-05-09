@@ -13,7 +13,7 @@ location: "India"
 - [x] Benchmark the results with several state-of-the-art approaches which include Kernal Regression, Nonlinear Programming (NLP) approach, Mixed-Integer programming (MIP) approach.
 <br/>
 
-The documentation of the study and the results are available in this post, "[Data-Driven Computing for Elasticity via Chebyshev Approximation](https://rahulvigneswaran.github.io/posts/2019/01/Insight%20into%20the%20Dynamics%20and%20State%20Space%20Modelling%20of%20a%203-D%20Quadrotor-3/)".
+The documentation of the study and the results are available in this post, "[Data-Driven Computing for Elasticity via Chebyshev Approximation](https://rahulvigneswaran.github.io/posts/2019/01/2019-02-01-Data-Driven%20Computing%20for%20Elasticity%20via%20Chebyshev%20Approximation-4/)" and the code used in this project can be found [here](https://github.com/rahulvigneswaran/Data-Driven-Computing-in-Elasticity-via-Chebyshev-Approximation).
 <br/>
 
 If you have used any of these materials, kindly cite the following paper :
