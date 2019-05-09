@@ -32,11 +32,22 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% if post.paperurl and post.arxiv and post.code %}
+      pLinks [a href= {{ post.paperurl }}  target=_blankuPaperua], [a href= {{ post.arxiv }}  target=_blankuarXivua], [a href= {{ post.code }}  target=_blankuCodeua]p
     {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.paperurl and post.arxiv %}
+      pLinks [a href= {{ post.paperurl }}  target=_blankuPaperua], [a href= {{ post.arxiv }}  target=_blankuarXivua]p
+    {% elsif post.paperurl and post.code %}
+      pLinks [a href= {{ post.paperurl }}  target=_blankuPaperua], [a href= {{ post.code }}  target=_blankuCodeua]p
+    {% elsif post.arxiv and post.code %}
+      pLinks [a href= {{ post.arxiv }}  target=_blankuarXivua], [a href= {{ post.code }}  target=_blankuCodeua]p
+    {% endif %}
+    {% elsif post.code %}
+      pLink [a href= {{ post.code }}  target=_blankuCodeua]p
+    {% elsif post.arxiv %}
+      pLink [a href= {{ post.arxiv }}  target=_blankuarXivua]p
+    {% elsif post.paperurl %}
+      pLink [a href= {{ post.paperurl }}  target=_blankuPaperua]p
+    {% endif %}
   </article>
 </div>
