@@ -2,12 +2,15 @@
 title: 'Survey on Network and Host based Intrusion Detection Systems'
 date: 2018-07-20
 permalink: /posts/2019/01/2018-07-20-Survey on Network and Host based Intrusion Detection Systems-2/
-excerpt: 'The techniques of deep learning have become the state of the art methodology for executing complicated tasks from various domains of computer vision, natural language processing, and several other areas. Due to its rapid development and promising benchmarks in those fields, researchers started experimenting with this technique to perform in the area of, especially in intrusion detection related tasks. Deep learning is a subset and a natural extension of classical Machine learning and an evolved model of neural networks. This paper contemplates and discusses all the methodologies related to the leading edge Deep learning and Neural network models purposing to the arena of Intrusion Detection Systems.'
+excerpt: 'This post contemplates and discusses all the methodologies related to the leading edge Deep learning and Neural network models purposing to the arena of Intrusion Detection Systems.'
 tags:
-  - Intrusion detection
-  - deep neural networks
-  - machine learning
-  - deep learning
+  - intrusion detection 
+  - network based intrusion detection 
+  - host based intrusion detection 
+  - neural networks 
+  - deep learning 
+  - big data 
+  - security
 ---
 ### Abstract ###
 The techniques of deep learning have become the state of the art methodology for executing complicated tasks from various domains of computer vision, natural language processing, and several other areas. Due to its rapid development and promising benchmarks in those fields, researchers started experimenting with this technique to perform in the area of, especially in intrusion detection related tasks. Deep learning is a subset and a natural extension of classical Machine learning and an evolved model of neural networks. This paper contemplates and discusses all the methodologies related to the leading edge Deep learning and Neural network models purposing to the arena of Intrusion Detection Systems.
