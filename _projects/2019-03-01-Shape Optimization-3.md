@@ -2,7 +2,7 @@
 title: "Shape Optimization using DMD and POD"
 collection: projects
 type: "Research Project"
-excerpt: 'The aim of this project is to develop a data-driven shape optimization technique using DMD and POD'
+excerpt: 'The aim of this project is to develop a data-driven shape optimization technique using DMD and POD.'
 permalink: /projects/2019-03-01-Shape Optimization-3
 venue: "Center for Computational Engineering and Networking (CEN)"
 date: 2019-03-01
