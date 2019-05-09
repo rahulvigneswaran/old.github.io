@@ -100,7 +100,7 @@ Conventionally, increasing the count of the layers results in better results com
 For all the above network topologies, 100 epochs were run and the results were observed. Finally, the best performance was showed by DNN 3 layer compared to all the others. To broaden the search for better results, all the common classical machine learning algorithms were used and the results were compared to the DNN 3 layer, which still outperformed every single classical algorithm. The detailed statistical results for different network structures are reported in the table I.
 
 *Table I: Network Structure Information*
-![Network Structure Information](/files/tab1.png)  
+![Network Structure Information](../files/tab1.png)  
 
 
 ### Proposed Architecture ###
