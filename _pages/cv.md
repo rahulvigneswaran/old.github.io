@@ -20,10 +20,9 @@ I seek to solve theoretical machine learning problems using ideas from optimizat
 
 [Publications](https://rahulvigneswaran.github.io/publications/){:target="_blank"}
 ------
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 
 Education
 ======
