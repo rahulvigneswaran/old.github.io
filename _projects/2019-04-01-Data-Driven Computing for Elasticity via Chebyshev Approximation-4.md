@@ -8,6 +8,7 @@ venue: "Center for Computational Engineering and Networking (CEN)"
 date: 2019-04-01
 location: "India"
 ---
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/data-driven-computing-in-elasticity-via/stress-strain-relation-on-non-linear)](https://paperswithcode.com/sota/stress-strain-relation-on-non-linear)
 ## Tasks
 - [x]  Leverage the relation between Chebyshev polynomial of the ﬁrst kind and approximation theory to develop a data-driven solver for nonlinearly elastic materials.  
 - [x] Benchmark the results with several state-of-the-art approaches which include Kernal Regression, Nonlinear Programming (NLP) approach, Mixed-Integer programming (MIP) approach.
